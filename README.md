@@ -6,3 +6,4 @@
 - https://archive.ics.uci.edu/ml/datasets/Dermatology
 - https://archive.ics.uci.edu/ml/datasets/Horse+Colic
 - https://archive.ics.uci.edu/ml/datasets/Poker+Hand
+- https://archive.ics.uci.edu/ml/datasets/Adult
